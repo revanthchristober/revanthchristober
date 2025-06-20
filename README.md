@@ -13,7 +13,7 @@ Passionate about Generative AI, MLOps, open source, full-stack development, AI/M
       <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript" width="40" height="40"/>&nbsp;
       <img src="https://go-skill-icons.vercel.app/api/icons?i=typescript" width="40" height="40"/>&nbsp;
       <img src="https://go-skill-icons.vercel.app/api/icons?i=php" width="40" height="40"/>&nbsp;
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Logo_C_sharp.svg" alt="C# Icon" width="40" height="40">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/C-Sharp_Logo.svg/640px-C-Sharp_Logo.svg.png" alt="C# Icon" width="40" height="40">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=java" width="40" height="40"/>&nbsp;
       <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL Icon" width="40" height="40">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Mongodb-icon.svg/64px-Mongodb-icon.svg.png?20230427111848" alt="MongoDB Icon" width="40" height="40">
