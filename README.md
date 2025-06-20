@@ -102,10 +102,6 @@ Passionate about Generative AI, MLOps, open source, full-stack development, AI/M
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RevanthChristoberM&show_icons=true&hide_title=true&theme=midnight-blue&border_radius=10&hide_border=false&include_all_commits=true&count_private=true" alt="Revanth's GitHub Stats"  />
-</p>
-
 ## **📂 Job Experience**
 
 ## **Generative AI Engineer at AGIE AI (Feb 2023 – Jan 2025)**
