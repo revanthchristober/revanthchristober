@@ -62,7 +62,6 @@ Passionate about Generative AI, MLOps, open source, full-stack development, AI/M
       <img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface" width="40" height="40"/>&nbsp; <!-- verify via builder -->
       <img src="https://go-skill-icons.vercel.app/api/icons?i=langchain" width="40" height="40"/>&nbsp; <!-- likely unsupported, verify -->
       <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt" width="40" height="40"/>&nbsp; <!-- replaces “openai” :contentReference[oaicite:0]{index=0} -->
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=transformers" width="40" height="40"/>&nbsp; <!-- verify via builder -->
       <img src="https://go-skill-icons.vercel.app/api/icons?i=mlflow" width="40" height="40"/>&nbsp; <!-- verify via builder -->
       <img src="https://go-skill-icons.vercel.app/api/icons?i=ray" width="40" height="40"/>&nbsp; <!-- verify via builder -->
       <img src="https://go-skill-icons.vercel.app/api/icons?i=dvc" width="40" height="40"/>&nbsp; <!-- verify via builder -->
@@ -94,9 +93,9 @@ Passionate about Generative AI, MLOps, open source, full-stack development, AI/M
       <img src="https://go-skill-icons.vercel.app/api/icons?i=git" width="40" height="40"/>&nbsp;
       <img src="https://go-skill-icons.vercel.app/api/icons?i=github" width="40" height="40"/>&nbsp;
       <img src="https://go-skill-icons.vercel.app/api/icons?i=gitlab" width="40" height="40"/>&nbsp;
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=ci" width="40" height="40"/>&nbsp;
+<!--       <img src="https://go-skill-icons.vercel.app/api/icons?i=ci" width="40" height="40"/>&nbsp; -->
       <img src="https://go-skill-icons.vercel.app/api/icons?i=jenkins" width="40" height="40"/>&nbsp;
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=cicd" width="40" height="40"/>&nbsp;
+<!--       <img src="https://go-skill-icons.vercel.app/api/icons?i=cicd" width="40" height="40"/>&nbsp; -->
     </td>
   </tr>
 </table>
