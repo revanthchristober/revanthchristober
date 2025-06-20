@@ -129,7 +129,7 @@ Passionate about Generative AI, MLOps, open source, full-stack development, AI/M
 
 ## **📫 How to Reach Me**
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/revanthchrixtopher)
-- Email: revanthchrixtopher@outlook (OR) revanthchristober@gmail.com
+- Email: revanthchrixtopher@outlook.com (OR) revanthchristober@gmail.com
 - Portfolio: https://github.com/revanthchristober/revanthchristober/
 
 ## **💡 Interests**
