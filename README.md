@@ -64,7 +64,7 @@ Passionate about Generative AI, MLOps, open source, full-stack development, AI/M
       <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt" width="40" height="40"/>&nbsp; <!-- replaces “openai” :contentReference[oaicite:0]{index=0} -->
       <img src="https://go-skill-icons.vercel.app/api/icons?i=mlflow" width="40" height="40"/>&nbsp; <!-- verify via builder -->
       <img src="https://go-skill-icons.vercel.app/api/icons?i=ray" width="40" height="40"/>&nbsp; <!-- verify via builder -->
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=dvc" width="40" height="40"/>&nbsp; <!-- verify via builder -->
+      <img src="https://dvc.org/social-share.png" width="40" height="40"/>&nbsp; <!-- verify via builder -->
     </td>
   </tr>
   <tr>
