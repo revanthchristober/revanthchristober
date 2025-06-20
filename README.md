@@ -32,7 +32,7 @@ Passionate about Generative AI, MLOps, open source, full-stack development, AI/M
       <img src="https://go-skill-icons.vercel.app/api/icons?i=vue" width="40" height="40"/>&nbsp;
       <img src="https://go-skill-icons.vercel.app/api/icons?i=bootstrap" width="40" height="40"/>&nbsp;
       <img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind" width="40" height="40"/>&nbsp;
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=chakraui" width="40" height="40"/>&nbsp; <!-- verify via builder -->
+      <img src="https://www.svgrepo.com/show/330132/chakraui.svg" width="40" height="40"/>&nbsp; <!-- verify via builder -->
       <img src="https://go-skill-icons.vercel.app/api/icons?i=materialui" width="40" height="40"/>&nbsp; <!-- verify via builder -->
       <img src="https://go-skill-icons.vercel.app/api/icons?i=graphql" width="40" height="40"/>&nbsp;
     </td>
